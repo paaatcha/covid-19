@@ -5,7 +5,7 @@ On March 11, 2020, the World Health Organization (WHO) declared the Covid-19 (a.
 
 For Portuguese speakers, I wrote a post in my blog about this analysis: [O que os dados dizem sobre o Coronavírus?](http://computacaointeligente.com.br/coolstuffs/analisando-coronavirus/)
 
-## Some plots and tables got during the analysis (updated on March 15, 2020)
+## Some plots and tables got during the analysis (updated on March 16, 2020)
 ### Covid-19 worldwide (without China):
 ![covid-19-wo-chinha](figures/en/conf_cases_worldwide_no_china.png)
 
@@ -16,16 +16,16 @@ For Portuguese speakers, I wrote a post in my blog about this analysis: [O que o
 ### Top 10 infected countries
 | Country/Region   |   Confirmed |   Deaths |   Recovered |   % Deaths  |    % Population |
 |:-----------------|------------:|---------:|------------:|------------:|-----------:|
-| China            |       81003 |     3203 |       67017 |    3.95417  | 0.00581613 |
-| Italy            |       24747 |     1809 |        2335 |    7.30998  | 0.0409506  |
-| Iran             |       13938 |      724 |        4590 |    5.19443  | 0.0170391  |
-| Korea, South     |        8162 |       75 |         510 |    0.918892 | 0.015807   |
-| Spain            |        7798 |      289 |         517 |    3.70608  | 0.0166896  |
-| Germany          |        5795 |       11 |          46 |    0.189819 | 0.006988   |
-| France           |        4513 |       91 |          12 |    2.0164   | 0.0067371  |
-| US               |        3499 |       63 |          12 |    1.80051  | 0.00106948 |
+| China            |       81033 |     3217 |       67910 |    3.96999  | 0.00581828 |
+| Italy            |       27980 |     2158 |        2749 |    7.71265  | 0.0463005  |
+| Iran             |       14991 |      853 |        4590 |    5.69008  | 0.0183263  |
+| Spain            |        9942 |      342 |         530 |    3.43995  | 0.0212783  |
+| Korea, South     |        8236 |       75 |        1137 |    0.910636 | 0.0159503  |
+| Germany          |        7272 |       17 |          67 |    0.233773 | 0.00876906 |
+| France           |        6650 |      148 |          12 |    2.22556  | 0.00992726 |
+| US               |        4632 |       85 |          17 |    1.83506  | 0.00141579 |
 | Switzerland      |        2200 |       14 |           4 |    0.636364 | 0.0258321  |
-| Norway           |        1221 |        3 |           1 |    0.2457   | 0.0229756  |
+| United Kingdom   |        1551 |       56 |          21 |    3.61057  | 0.00233272 |
 
 ### Comparing confirmed cases around the world
 
