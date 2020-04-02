@@ -5,7 +5,7 @@ On March 11, 2020, the World Health Organization (WHO) declared the Covid-19 (a.
 
 For Portuguese speakers, I wrote a post in my blog about this analysis: [O que os dados dizem sobre o Coronavírus?](http://computacaointeligente.com.br/coolstuffs/analisando-coronavirus/)
 
-## Some plots and tables got during the analysis (updated on May 1, 2020)
+## Some plots and tables got during the analysis (updated on April 2, 2020)
 ### Covid-19 worldwide (without China):
 ![covid-19-wo-chinha](figures/en/conf_cases_worldwide_no_china.png)
 
@@ -16,16 +16,16 @@ For Portuguese speakers, I wrote a post in my blog about this analysis: [O que o
 ### Top 10 infected countries
 | Country/Region   |   Confirmed |   Deaths |   % Deaths  |% Population|
 |:-----------------|------------:|---------:|------------:|-----------:|
-| US               |      188172 |     3873 |     2.05822 | 0.0575155  |
-| Italy            |      105792 |    12428 |    11.7476  | 0.175062   |
-| Spain            |       95923 |     8464 |     8.82374 | 0.205298   |
-| China            |       82279 |     3309 |     4.02168 | 0.00590775 |
-| Germany          |       71808 |      775 |     1.07927 | 0.0865909  |
-| France           |       52827 |     3532 |     6.68597 | 0.0788613  |
-| Iran             |       44605 |     2898 |     6.49703 | 0.0545292  |
-| United Kingdom   |       25481 |     1793 |     7.03662 | 0.0383236  |
-| Switzerland      |       16605 |      433 |     2.60765 | 0.194973   |
-| Turkey           |       13531 |      214 |     1.58155 | 0.0164371  |
+| US               |      213372 |     4757 |     2.22944 | 0.065218   |
+| Italy            |      110574 |    13155 |    11.897   | 0.182975   |
+| Spain            |      104118 |     9387 |     9.01573 | 0.222837   |
+| China            |       82361 |     3316 |     4.02618 | 0.00591364 |
+| Germany          |       77872 |      920 |     1.18143 | 0.0939032  |
+| France           |       57749 |     4043 |     7.00099 | 0.086209   |
+| Iran             |       47593 |     3036 |     6.37909 | 0.058182   |
+| United Kingdom   |       29865 |     2357 |     7.89218 | 0.0449172  |
+| Switzerland      |       17768 |      488 |     2.74651 | 0.208629   |
+| Turkey           |       15679 |      277 |     1.76669 | 0.0190465  |
 
 ### Comparing confirmed cases around the world
 
